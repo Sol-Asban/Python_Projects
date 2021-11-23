@@ -1,4 +1,5 @@
 # Python_Projects
 
-All the projects was done within the Data Science Course at Naya College.\n
+All the projects was done within the Data Science Course at Naya College.
+
 Regression and final projects were written in collaboration with **Shiran Bahat**.
